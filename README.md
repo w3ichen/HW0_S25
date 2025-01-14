@@ -12,7 +12,7 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 5. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
 6. In the REPL (hit backspace to exit the package manager), enter `using IJulia`
 7. Launch the notebook using `notebook()` or `jupyterlab()`
-8. If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
+8. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
 
 ## HW Instructions 
 
