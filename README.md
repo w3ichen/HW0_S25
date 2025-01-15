@@ -7,13 +7,14 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 
 1. Install [Julia](https://julialang.org/) by running the one of the following terminal commands depending on your system. This will install the [Juliaup](https://github.com/JuliaLang/juliaup) installation manager. DO NOT install version-specific binaries.  
    a. for Windows, run `winget install julia -s msstore`, then `juliaup add lts` to install the LTS version, and `juliaup default lts` to set LTS as the default Julia version.
+   
    b. for Mac/Linux, run `curl -fsSL https://install.julialang.org | sh -s -- -y --default-channel lts` to achive the same thing.
-2. Clone this repo and put it wherever you want.
-3. Start a Julia REPL in your terminal using `julia`
-4. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
-5. In the REPL (hit backspace to exit the package manager), enter `using IJulia`
-6. Launch the notebook using `notebook()` or `jupyterlab()`
-7. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
+3. Clone this repo and put it wherever you want.
+4. Start a Julia REPL in your terminal using `julia`.
+5. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
+6. In the REPL (hit backspace to exit the package manager), enter `using IJulia`.
+7. Launch the notebook using `notebook()` or `jupyterlab()`.
+8. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
 
 ## HW Instructions 
 
