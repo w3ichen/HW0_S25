@@ -1,7 +1,5 @@
 # HW0_S25
 
-Please check out the [HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg) by [Kevin Tracy](https://kevintracy.info/) from last year. Note: this was made for the previous Julia LTS version(1.6.7) and we will be using the latest (and much improved) LTS, but the content in the video is still very much relevant.
-
 ## Getting Started
 All the homeworks are distributed as Jupyter notebooks. Follow these instructions to get everything set up.
 
@@ -17,8 +15,8 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 7. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
 
 ## HW Instructions 
-
-Fill out `Q1.ipynb` and `Q2.ipynb`.
+1. Please watch the [HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg) by [Kevin Tracy](https://kevintracy.info/) from last year and checkout `julia_primer.ipynb`. Note: this was made for the previous Julia LTS version(1.6.7) and we will be using the latest (and much improved) LTS, but the content in the video is still very much relevant.
+2. After you have completed the walk through, fill out `Q1.ipynb` and `Q2.ipynb`.
 
 ## Submission Instructions
 
