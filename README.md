@@ -1,18 +1,19 @@
 # HW0_S25
 
-[HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg).
+Please check out the [HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg) by [Kevin Tracy](https://kevintracy.info/) from last year. Note: this was made for the previous Julia LTS version(1.6.7) and we will be using the latest (and much improved) LTS, but the content in the video is still very much relevant.
 
 ## Getting Started
 All the homeworks are distributed as Jupyter notebooks. Follow these instructions to get everything set up.
 
-1. Install Julia following instructions from the [Julia website](https://julialang.org/downloads/) by running the terminal commands. This will install the [Juliaup](https://github.com/JuliaLang/juliaup) installation manager. DO NOT install version-specific binaries.
-2. Set the default Julia version to LTS (1.10.7 as of Jan. 2025) by running:`juliaup default lts`. You should see the following message: `Configured the default Julia version to be 'lts'.`
-3. Clone this repo and put it wherever you want.
-4. Start a Julia REPL in your terminal using `julia`
-5. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
-6. In the REPL (hit backspace to exit the package manager), enter `using IJulia`
-7. Launch the notebook using `notebook()` or `jupyterlab()`
-8. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
+1. Install [Julia](https://julialang.org/) by running the one of the following terminal commands depending on your system. This will install the [Juliaup](https://github.com/JuliaLang/juliaup) installation manager. DO NOT install version-specific binaries.  
+   a. for Windows, run `winget install julia -s msstore`, then `juliaup add lts` to install the LTS version, and `juliaup default lts` to set LTS as the default Julia version.
+   b. for Mac/Linux, run `curl -fsSL https://install.julialang.org | sh -s -- -y --default-channel lts` to achive the same thing.
+2. Clone this repo and put it wherever you want.
+3. Start a Julia REPL in your terminal using `julia`
+4. Install the [IJulia](https://github.com/JuliaLang/IJulia.jl) using the Julia package manager. In the REPL, enter the package manager using `]`, then enter `add IJulia` to add it to your system path.
+5. In the REPL (hit backspace to exit the package manager), enter `using IJulia`
+6. Launch the notebook using `notebook()` or `jupyterlab()`
+7. (Optional) If you use VSCode, instead of steps 5-7, you can install the [Julia](https://code.visualstudio.com/docs/languages/julia) and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extensions in VSCode. Make sure you set the `kernel` to `Julia lts channel` before running your code.
 
 ## HW Instructions 
 
