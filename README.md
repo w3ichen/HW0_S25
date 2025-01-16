@@ -20,15 +20,17 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 
 ## Submission Instructions
 
+Submit all HWs as a PDF of your completed Jupyter Notebook in [Gradescope](https://www.gradescope.com/courses/952874). Please review all the checklist items and guidelines below:
+
 ### Checklist
 
 Before you submit your completed homework PDF, remember to complete **all** the checklist items below:
 
 - Make sure text and code, including special characters, are completely legible.
-- Make sure code is completely visible (i.e., no cropped lines). If we can't see it, then we can't grade it... Look at section below for details on remedying this.
+- Make sure code is completely visible (i.e., no cropped lines). If we can't see it, then we can't grade it... Look at section below for details on how to remedy this.
 - Make sure plots and unit tests have been outputted and rendered properly. **Meshcat** visuals are **exempt**.
 - DO NOT ALTER UNIT TEST CASES. We check and can tell...
-- Assign questions to **each respective page** of your PDF in Gradescope, including the text of the problem.
+- Assign questions to **each respective page** of your PDF in [Gradescope](https://www.gradescope.com/courses/952874), including the text of the problem.
 
 ### Fixing Cropped Code
 
