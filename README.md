@@ -20,7 +20,7 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 
 ## Submission Instructions
 
-Submit all HWs as a PDF of your completed Jupyter Notebook in [Gradescope](https://www.gradescope.com/courses/952874). Please review all the checklist items and guidelines below:
+Submit all HWs as **PDFs of your completed Jupyter Notebooks in [Gradescope](https://www.gradescope.com/courses/952874)**. Please review all the checklist items and instructions below:
 
 ### Checklist
 
@@ -68,7 +68,7 @@ L_grad = cost_grad + constraint_jac_T*λ
 
 ### Export to PDF
 
-Feel free to use any method you'd like to export your Jupyter notebook as a PDF (**with all checklist items completed**) and **submit on gradescope**. 
+Feel free to use any method you'd like to export your Jupyter notebook as a PDF (**with all checklist items completed**). 
 
 We recommend the following method of converting your Jupyter notebook to a PDF because it requires no additional installs (hopefully). It's slightly involved, but it is the most consistent in our experience.
 
@@ -78,11 +78,11 @@ We recommend the following method of converting your Jupyter notebook to a PDF b
 4. Open the downloaded HTML file in your favorite web browser.
 5. Open up the browser's print menu and select `Save as PDF`.
 6. Save and [combine](https://www.adobe.com/acrobat/online/merge-pdf.html) PDFs. 
-7. Submit on **Gradescope**, and make sure to **assign the right pages** to all questions.
+7. Submit on **[Gradescope](https://www.gradescope.com/courses/952874)**, and make sure to **assign the right pages** to all questions.
 
 ### Others
 
-If HTML to PDF does not work, feel free to try other methods: [https://mljar.com/blog/jupyter-notebook-pdf/](https://mljar.com/blog/jupyter-notebook-pdf/). 
+If HTML to PDF does not work, feel free to try other methods: [https://mljar.com/blog/jupyter-notebook-pdf/](https://mljar.com/blog/jupyter-notebook-pdf/).
 
 
 
